@@ -27,21 +27,6 @@ Python dersi için 2 kişilik grup olarak geliştirdiğimiz bir kişisel finans 
 | reportlab | PDF çıktısı |
 | hashlib | Şifre hash'leme |
 
-## Kurulum
-
-1. Repoyu bilgisayarına klonla:
-   ```
-   git clone https://github.com/Ayse038/fintrack-kisisel-finans.git
-   cd fintrack-kisisel-finans
-   ```
-2. Gerekli kütüphaneleri yükle:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Uygulamayı çalıştır:
-   ```
-   python main.py
-   ```
 
 ## Proje Yapısı
 
